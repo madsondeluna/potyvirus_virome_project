@@ -53,7 +53,8 @@ pip install pandas
 ## Como Usar
 
 1. **Prepare o Arquivo de Entrada**:
-   - Substitua o caminho do arquivo `file_name` no script para o caminho do seu arquivo `.tsv`. Geralmente o NCBI nomeira o arquivo como `data_summary.tsv` por padrão
+   - Substitua o caminho do arquivo `file_name` no script para o caminho do seu arquivo `.tsv`. 
+   (Dica: Geralmente o NCBI nomeira o arquivo como `data_summary.tsv` por padrão.)
 
 2. **Execute o Script**:
    - Salve o script como `process_genomes.py`.
