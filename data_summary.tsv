@@ -1,0 +1,226 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Fritillary virus Y		isolate: Pan'an	332471	ViralProj30175	GCA_000880155.1	GenBank	Annotation submitted by Adams M.J., Plant Pathogen Interactions Division, Rothamsted Research, Harpenden, Herts AL5 2JQ, UNITED KINGDOM	Complete Genome	9656	9656	2006-03-08	1		
+Brugmansia mosaic virus		strain: SK	1239452	ViralProj186429	GCA_000906515.1	GenBank	Annotation submitted by Biosystems & Bioengineering, University of Science and Technology	Complete Genome	9796	9796	2013-01-04	2		
+Habenaria mosaic virus		isolate: Ha-1	1324128	ViralProj212951	GCA_000908975.1	GenBank	Annotation submitted by Contact:Hideki Kondo Okayama University, Institute of Plant Science and Resources; Chuou 2-20-1, Kurashiki, Okayama 710-0046, Japan	Complete Genome	9499	9499	2013-07-16	10		
+Potyvirus alstromeriae		isolate: O1	260374	ASM282812v1	GCA_002828125.1	GenBank	Annotation submitted by Shin-ichi Fuji, Akita Prefectural University, Bioresource Sciences; Shimoshinjo, Akita, Akita 010-0195, Japan	Chromosome	1867	1867	2004-07-08	1		
+Amazon lily mosaic virus			3240722	ASM282816v1	GCA_002828165.1	GenBank	Annotation submitted by Shin-ichi Fuji, Akita Prefectural University, Bioresource Sciences; Shimoshinjo, Akita, Akita 010-0195, Japan	Chromosome	1298	1298	2004-07-08	1		
+Ceratobium mosaic virus		strain: CerMV-13	66702	ASM282836v1	GCA_002828365.1	GenBank	Annotation submitted by Research School of Biological Sciences, Australian National University	Chromosome	1720	1720	1997-10-22	3		
+Mediterranean ruda virus		isolate: ParP17	2058620	ASM478867v1	GCA_004788675.1	GenBank	Annotation submitted by Centro de Biotecnologia y Genomica de Plantas	Complete Genome	9560	9560	2017-12-12	1		
+Gomphocarpus mosaic virus			1972994	ASM1308745v1	GCA_013087455.1	GenBank	Annotation submitted by Contact:Yuh-Kun Chen National Chung hsing University, Plant Pathology; 250 KuoKuang Road, Taichung 403, Taiwan	Complete Genome	9998	9998	2018-08-08	1		
+Potato virus Y strain nnp		strain: nnp	259538	ASM3111825v1	GCA_031118255.1	GenBank	Annotation submitted by Dipartimento Di Biologia, Difesa E Biotecnologie Agro-Forestali, Universita Degli Studi Della Basilicata	Complete Genome	9699	9699	2004-12-09	1		
+Sweet potato virus E		isolate: GS	2571232	ASM3119013v1	GCA_031190135.1	GenBank	Annotation submitted by Research Institute of Agriculture and Life Sciences, College of Agriculture and Life Sciences, Seoul National University	Complete Genome	10890	10890	2019-04-29	1		
+Plantago potyvirus 1		isolate: BUK19SW	2950875	ASM3131526v1	GCA_031315265.1	GenBank	Annotation submitted by Department of Biotechnology and Systems Biology, National Institute of Biology	Complete Genome	9528	9528	2022-07-18	1	PRJNA772045	SAMN22357975
+Rumex potyvirus 1		isolate: PLE20SW	2950878	ASM3131528v1	GCA_031315285.1	GenBank	Annotation submitted by Department of Biotechnology and Systems Biology, National Institute of Biology	Complete Genome	10638	10638	2022-07-18	1	PRJNA772045	SAMN22357975
+Yam mosaic virus		strain: Ivory Coast	41460	ViralProj14884	GCF_000851785.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9608	9608	2003-04-28	2		
+Sugarcane mosaic virus			12224	ViralProj14994	GCF_000854025.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9596	9596	2002-02-12	2		
+Beet mosaic virus		isolate: BtMV-Wa	114921	ViralProj14942	GCF_000854465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9591	9591	2003-12-20	2		
+Watermelon mosaic virus		strain: WMV-Fr	146500	ViralProj15046	GCF_000856625.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10035	10035	2004-09-09	2		
+Sorghum mosaic virus		isolate: Xiaoshan	32619	ViralProj15098	GCF_000856865.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9624	9624	2002-06-18	2		
+Bean common mosaic virus		isolate: R, strain: blackeye cowpea mosaic	12196	ViralProj15183	GCF_000857245.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9992	9992	2002-02-15	2		
+Scallion mosaic virus			157018	ViralProj15190	GCF_000858245.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9324	9324	2002-02-12	2		
+Leek yellow stripe virus		isolate: Yuhang GYH	42004	ViralProj15184	GCF_000858985.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10142	10142	2002-06-15	2		
+Chilli veinal mottle virus			52280	ViralProj15225	GCF_000860025.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9711	9711	2004-03-04	2		
+Pea seed-borne mosaic virus		strain: DPD1	12208	ViralProj15295	GCF_000860445.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9924	9924	2000-08-01	2		
+Pepper mottle virus			12209	ViralProj15312	GCF_000860525.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9640	9640	2000-08-01	2		
+Tobacco vein mottling virus			12228	ViralProj15348	GCF_000860705.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9475	9475	2000-08-01	2		
+Peanut mottle virus			33763	ViralProj15352	GCF_000860725.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9709	9709	2000-11-02	2		
+Potato virus V		isolate: DV 42	40640	ViralProj15379	GCF_000860845.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9848	9848	2002-06-17	2		
+Dasheen mosaic virus		isolate: M13	29271	ViralProj15388	GCF_000860885.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10038	10038	2002-04-09	2		
+Papaya leaf distortion mosaic virus			46917	ViralProj15405	GCF_000860965.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	10155	10155	2003-07-10	2		
+Tobacco etch virus			12227	ViralProj15325	GCF_000861345.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9494	9494	2000-08-10	2		
+Bean common mosaic necrosis virus		isolate: Michigan, strain: NL-3 (necrotic)	43240	ViralProj15333	GCF_000861385.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9612	9612	2002-06-25	2		
+Johnsongrass mosaic virus			31742	ViralProj15349	GCF_000861465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9779	9779	2002-04-16	2		
+Clover yellow vein virus		strain: No.30	12198	ViralProj15353	GCF_000861485.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9584	9584	2002-04-09	2		
+Potato virus A		isolate: infectious cDNA clone, strain: B11	12215	ViralProj15376	GCF_000861585.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9585	9585	2002-06-20	2		
+Zucchini yellow mosaic virus		isolate: TW-TN3	12232	ViralProj15390	GCF_000861645.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9591	9591	2001-11-23	2		
+Cowpea aphid-borne mosaic virus		isolate: CABMV-Z	12199	ViralProj15394	GCF_000861665.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9465	9465	2002-06-15	2		
+Peru tomato mosaic virus		isolate: PPK13	187978	ViralProj15406	GCF_000861725.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9899	9899	2003-02-24	2		
+Papaya ringspot virus			12205	ViralProj15289	GCF_000862045.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10326	10326	2000-08-01	2		
+Plum pox virus		isolate: PPV-NAT	12211	ViralProj15298	GCF_000862085.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9741	9741	2000-08-01	2		
+Lettuce mosaic virus		strain: E	12202	ViralProj15342	GCF_000862305.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10080	10080	2002-04-16	2		
+Soybean mosaic virus		strain: N	12222	ViralProj15377	GCF_000862465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9588	9588	2001-01-03	2		
+Cocksfoot streak virus			192452	ViralProj15399	GCF_000862565.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9663	9663	2002-05-03	2		
+Onion yellow dwarf virus		isolate: Yuhang	43130	ViralProj15407	GCF_000862605.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10538	10538	2003-07-10	2		
+Potato virus Y			12216	ViralProj15290	GCF_000862905.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9704	9704	2000-08-01	2		
+Bean yellow mosaic virus		strain: MB4	12197	ViralProj15339	GCF_000863145.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9532	9532	2002-04-02	2		
+Sweet potato feathery mottle virus		strain: S	12844	ViralProj15347	GCF_000863185.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10820	10820	2000-08-01	3		
+Maize dwarf mosaic virus		strain: Bulgaria	12203	ViralProj15355	GCF_000863225.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9515	9515	2002-02-04	2		
+Japanese yam mosaic virus			79917	ViralProj15365	GCF_000863265.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9760	9760	2000-08-01	2		
+Wild potato mosaic virus		isolate: Type Isolate	187977	ViralProj15404	GCF_000863445.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9878	9878	2002-11-21	2		
+Turnip mosaic virus			12230	ViralProj15408	GCF_000863465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9835	9835	2004-12-07	2		
+Pennisetum mosaic virus		isolate: B	221262	ViralProj15447	GCF_000863645.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9611	9611	2005-06-29	2		
+Shallot yellow stripe virus		isolate: ZQ2	62059	ViralProj15745	GCF_000864145.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10429	10429	2005-10-03	3		
+Thunberg fritillary mosaic virus		isolate: Ningbo	299200	ViralProj15483	GCF_000866365.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9723	9723	2005-07-06	2		
+Lily mottle virus		isolate: Sb	32624	ViralProj15495	GCF_000866425.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9644	9644	2003-12-06	2		
+Wisteria vein mosaic virus		isolate: Beijing	201862	ViralProj15532	GCF_000866545.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9695	9695	2005-08-02	2		
+East Asian Passiflora virus		isolate: AO, strain: AO	341167	ViralProj16326	GCF_000866965.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10046	10046	2006-01-24	2		
+Konjac mosaic virus		isolate: KoMV-F	322053	ViralProj16643	GCF_000867105.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9544	9544	2006-03-21	2		
+Pepper severe mosaic virus			12210	ViralProj17809	GCF_000868525.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9890	9890	2006-09-28	2		
+Daphne mosaic virus			578107	ViralProj16794	GCF_000869045.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9548	9548	2006-05-16	2		
+Narcissus degeneration virus		isolate: Zhangzhou	394036	ViralProj18729	GCF_000870425.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9816	9816	2007-01-29	2		
+Wild tomato mosaic virus		isolate: Laichau	400396	ViralProj20625	GCF_000871025.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9659	9659	2007-08-27	2		
+Moroccan watermelon mosaic virus		isolate: TN05-76, strain: MWMV-Tn	167129	ViralProj27897	GCF_000871305.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9730	9730	2007-11-20	2		
+Banana bract mosaic virus			45661	ViralProj20617	GCF_000871865.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9711	9711	2007-08-27	2		
+Telosma mosaic virus		isolate: Hanoi	400394	ViralProj20621	GCF_000873465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9689	9689	2007-08-27	2		
+Tobacco vein banding mosaic virus		isolate: YND	33765	ViralProj27895	GCF_000873745.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9570	9570	2007-11-20	2		
+Basella rugose mosaic virus		isolate: AC	373398	ViralProj20619	GCF_000874125.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9804	9804	2007-08-27	2		
+Verbena virus Y		isolate: Michigan	515446	ViralProj29881	GCF_000875185.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9742	9742	2008-05-21	2		
+Potyvirus algeriaense		isolate: H4	515575	ViralProj29883	GCF_000879995.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9842	9842	2008-05-21	2		
+Fritillary virus Y		isolate: Pan'an	332471	ViralProj30175	GCF_000880155.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9656	9656	2008-06-12	2		
+Narcissus yellow stripe virus		isolate: Zhangzhou	160843	ViralProj32687	GCF_000882395.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9650	9650	2008-11-12	2		
+Zantedeschia mild mosaic virus		strain: TW	270478	ViralProj32715	GCF_000882455.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9973	9973	2008-11-12	2		
+Pepper veinal mottle virus		isolate: P	255066	ViralProj33675	GCF_000883555.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9792	9792	2009-01-21	2		
+Canna yellow streak virus			433462	ViralProj40629	GCF_000885315.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9502	9502	2009-09-23	2		
+Sunflower chlorotic mottle virus		strain: Common (C)	129732	ViralProj47931	GCF_000886335.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9965	9965	2010-04-20	2		
+Panax virus Y		isolate: 2	796352	ViralProj49715	GCF_000887435.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9750	9750	2010-06-17	2		
+Lupinus mosaic virus		isolate: LU2	573615	ViralProj61853	GCF_000887935.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10113	10113	2011-01-20	2		
+Sweet potato virus C		isolate: C1, strain: C	930881	ViralProj60649	GCF_000888795.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10820	10820	2010-12-01	2		
+Bidens mottle virus		isolate: SF-1	433357	ViralProj50559	GCF_000889115.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9741	9741	2010-07-24	2		
+Brugmansia suaveolens mottle virus		strain: Bs-Campinas	487155	ViralProj52813	GCF_000889295.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9870	9870	2010-09-22	2		
+Passion fruit woodiness virus		isolate: PWV-MU2	31732	ViralProj61089	GCF_000889535.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9682	9682	2013-02-05	1		
+Freesia mosaic virus			421012	ViralProj48387	GCF_000889895.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9489	9489	2010-06-16	2		
+Pepper yellow mosaic virus		isolate: Pi-15, strain: DF	160358	ViralProj50567	GCF_000889995.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9745	9745	2010-07-24	1		
+Hardenbergia mosaic virus		isolate: HarMV-57.2	409486	ViralProj65811	GCF_000890955.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9682	9682	2011-06-09	2		
+Potyvirus apii		isolate: Ce	168135	ViralProj61905	GCF_000891455.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9917	9917	2011-01-13	2		
+Celery mosaic virus		isolate: California	112436	ViralProj65809	GCF_000893475.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9999	9999	2011-04-25	2		
+Yambean mosaic virus		isolate: SR	418827	ViralProj78927	GCF_000894095.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9649	9649	2011-12-13	2		
+Hippeastrum mosaic virus		isolate: Marijiniup 1	421010	ViralProj167580	GCF_000894695.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9660	9660	2012-05-29	2		
+Keunjorong mosaic virus		isolate: Cheongwon	1080799	ViralProj76731	GCF_000895595.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9626	9626	2011-11-29	1		
+Sweet potato virus 2		isolate: GWB-2	453050	ViralProj167581	GCF_000896295.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10731	10731	2012-05-29	2		
+Chilli ringspot virus		isolate: ChiRSV-HN/14	414528	ViralProj73825	GCF_000896355.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9595	9595	2011-10-05	2		
+Arracacha mottle virus		isolate: C-17	405558	ViralProj171011	GCF_000897375.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9630	9630	2012-07-20	1		
+Iranian johnsongrass mosaic virus		isolate: Shz	204478	ViralProj177544	GCF_000897875.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9544	9544	2012-10-15	1		
+Pokeweed mosaic virus		isolate: PkMV-PA	1220025	ViralProj177901	GCF_000897915.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9512	9512	2013-10-30	1		
+Tomato necrotic stunt virus		strain: MX9354	1176153	ViralProj162495	GCF_000898035.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10057	10057	2012-05-04	2		
+Cyrtanthus elatus virus A		isolate: Marijiniup 7	861561	ViralProj167578	GCF_000898155.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9908	9908	2012-05-29	2		
+Sweet potato virus G		isolate: Jesus Maria	46619	ViralProj169624	GCF_000898935.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10798	10798	2012-06-29	3		
+Ornithogalum mosaic virus		isolate: KP	12204	ViralProj179428	GCF_000901615.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9445	9445	2012-11-13	1		
+Yam mild mosaic virus			87097	ViralProj179432	GCF_000901635.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9538	9538	2012-11-13	2		
+Blue squill virus A		isolate: SW3	1072517	ViralProj179427	GCF_000902235.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9842	9842	2012-11-13	1		
+Colombian datura virus			91613	ViralProj185274	GCF_000903975.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9621	9621	2013-01-04	1		
+Sunflower mild mosaic virus		isolate: Entre Rios	715480	ViralProj198478	GCF_000904735.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9718	9718	2013-04-22	1		
+Sweet potato latent virus			31743	CAP3	GCF_000905635.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10081	10081	2013-04-03	1		
+Brugmansia mosaic virus		strain: SK	1239452	ViralProj186429	GCF_000906515.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9796	9796	2013-01-11	2		
+Donkey orchid virus A		isolate: SW3.1	1198144	ViralProj202316	GCF_000907335.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9868	9868	2013-05-10	1		
+Habenaria mosaic virus		isolate: Ha-1	1324128	ViralProj212951	GCF_000908975.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9499	9499	2013-07-23	11		
+Bidens mosaic virus		isolate: SP01	320856	ViralProj230992	GCF_000915195.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9557	9557	2013-12-10	1		
+Zucchini tigre mosaic virus		isolate: Re01-25	1406816	ViralProj232774	GCF_000915255.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10346	10346	2014-01-02	1		
+Narcissus late season yellows virus		isolate: Marijiniup8	160842	ViralProj239908	GCF_000917115.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9687	9687	2014-03-04	1		
+Carrot thin leaf virus		isolate: CTLV-Cs	114922	ViralProj263851	GCF_000924455.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9491	9491	2014-10-15	1		
+Vanilla distortion mosaic virus		isolate: VDMV-Cor	326202	ViralProj263828	GCF_000926935.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9553	9553	2014-10-15	1		
+Asparagus virus 1		isolate: DSMZ PV-0954	443746	ViralProj269630	GCF_000928895.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9741	9741	2014-12-09	1		
+Tamarillo leaf malformation virus		isolate: A	945960	ViralProj277199	GCF_000955115.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9720	9720	2015-03-06	1		
+Catharanthus mosaic virus		isolate: Mandevilla-US	369752	ViralProj286899	GCF_001029025.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9575	9575	2015-06-15	1		
+Lettuce Italian necrotic virus		isolate: I234	1688637	ViralProj293049	GCF_001271135.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9829	9829	2015-08-18	1		
+Jasmine virus T			1775963	ViralProj310150	GCF_001549545.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9590	9590	2016-02-03	1		
+Iris severe mosaic virus		isolate: BJ	32620	ViralProj310917	GCF_001551305.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10423	10423	2016-02-05	1		
+Tobacco mosqueado virus		isolate: RS-01	1792583	ViralProj321697	GCF_001646355.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9896	9896	2016-05-16	1		
+Impatiens flower break virus		isolate: Asan	2170135	ViralProj322679	GCF_001654345.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9622	9622	2016-05-31	1		
+Pecan mosaic-associated virus		isolate: LA	1856031	ViralProj325265	GCF_001661875.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9310	9310	2016-06-10	1		
+Wild onion symptomless virus		isolate: TUR256-1	1862127	ViralProj327362	GCF_001678235.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9369	9369	2016-06-30	11		
+Callistephus mottle virus		isolate: DJ	1886606	ViralProj339886	GCF_001714495.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9859	9859	2016-08-24	2		
+Barbacena virus Y		isolate: KLL097	2170132	ViralProj340440	GCF_001717275.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9837	9837	2016-08-29	1		
+Euphorbia ringspot virus		isolate: PV-0902	291286	ViralProj348328	GCF_001766625.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10154	10154	2016-10-13	2		
+Sunflower ring blotch virus		isolate: Chaco	1963260	ViralProj379138	GCF_002029655.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9555	9555	2017-03-14	1		
+Endive necrotic mosaic virus		strain: ENMV-FR	73423	ViralProj382966	GCF_002116235.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10000	10000	2017-04-17	1		
+Cucurbit vein banding virus		isolate: 3.1	2005044	ZQ	GCF_002210975.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9969	9969	2017-06-27	2		
+Wild melon vein banding virus		isolate: Su03-07	2018313	ViralProj399964	GCF_002270685.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10152	10152	2017-08-24	1		
+Sudan watermelon mosaic virus		isolate: Su94-54	2018312	ViralProj399965	GCF_002270985.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10232	10232	2017-08-24	1		
+Potyvirus alstromeriae		isolate: O1	260374	ASM282812v1	GCF_002828125.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1867	1867	2019-06-28	1		
+Potyvirus almeidi			429130	ASM282814v1	GCF_002828145.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1772	1772	2019-06-28	1		
+Amazon lily mosaic virus			3240722	ASM282816v1	GCF_002828165.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1298	1298	2019-06-28	1		
+Potyvirus angelicae		isolate: AnVY-g	436007	ASM282818v1	GCF_002828185.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1888	1888	2019-06-28	1		
+Araujia mosaic virus		isolate: ARG1973	454757	ASM282820v1	GCF_002828205.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1719	1719	2019-06-28	1		
+Peanut stripe virus		strain: Infectious Clone of the Blotch Isolate	28353	ASM282824v1	GCF_002828245.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10086	10086	2023-05-04	1		
+Bean common mosaic virus		strain: NL1	12196	ASM282826v1	GCF_002828265.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10054	10054	2023-05-04	1		
+White lupin mosaic virus		strain: W	390237	ASM282828v1	GCF_002828285.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9512	9512	2023-05-04	1		
+Calanthe mild mosaic virus			73840	ASM282830v1	GCF_002828305.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1306	1306	2019-06-28	3		
+Carnation vein mottle virus			82847	ASM282832v1	GCF_002828325.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	2326	2326	2019-06-28	1		
+Carrot virus Y			114923	ASM282834v1	GCF_002828345.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1754	1754	2019-06-28	1		
+Ceratobium mosaic virus		strain: CerMV-13	66702	ASM282836v1	GCF_002828365.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1720	1720	2019-06-28	3		
+Chinese artichoke mosaic virus			218282	ASM282838v1	GCF_002828385.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1675	1675	2019-06-28	1		
+Clitoria virus Y			114891	ASM282840v1	GCF_002828405.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1720	1720	2019-06-28	1		
+Cypripedium virus Y		isolate: CP	104389	ASM282842v1	GCF_002828425.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1642	1642	2019-06-28	1		
+Vanilla mosaic virus		isolate: CI	186373	ASM282844v1	GCF_002828445.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9828	9828	2023-05-04	1		
+Diuris virus Y			111427	ASM282846v1	GCF_002828465.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1719	1719	2019-06-28	1		
+Euphorbia ringspot virus			291286	ASM282848v1	GCF_002828485.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	2147	2147	2023-05-04	1		
+Gloriosa stripe mosaic virus		isolate: CB	12201	ASM282850v1	GCF_002828505.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9455	9455	2018-08-24	1		
+Hibbertia virus Y		strain: Kioloa	114892	ASM282852v1	GCF_002828525.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1707	1707	2019-06-28	1		
+Iris mild mosaic virus		isolate: WA-1	206392	ASM282856v1	GCF_002828565.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	8651	8651	2019-06-28	1		
+Kalanchoe mosaic virus		isolate: F39	674908	ASM282858v1	GCF_002828585.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1140	1140	2019-06-28	1		
+Lycoris mild mottle virus			186187	ASM282860v1	GCF_002828605.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1989	1989	2019-06-28	1		
+Meadow saffron breaking virus			256591	ASM282862v1	GCF_002828625.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1625	1625	2019-06-28	1		
+Nerine yellow stripe virus			424679	ASM282864v1	GCF_002828645.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1605	1605	2019-06-28	1		
+Ornithogalum virus 2		isolate: Japanese	186642	ASM282866v1	GCF_002828665.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1590	1590	2019-06-28	1		
+Ornithogalum virus 3			186643	ASM282868v1	GCF_002828685.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1147	1147	2019-06-28	1		
+Passiflora chlorosis virus		isolate: Florida	551003	ASM282872v1	GCF_002828725.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1439	1439	2019-06-28	1		
+Pfaffia mosaic virus			258471	ASM282874v1	GCF_002828745.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1724	1724	2019-06-28	1		
+Pleione virus Y			104390	ASM282876v1	GCF_002828765.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1645	1645	2019-06-28	1		
+Plum pox virus		isolate: BOR-3, strain: PPV-Rec	12211	ASM282878v1	GCF_002828785.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9975	9975	2023-05-04	1		
+Plum pox virus		isolate: W3174, strain: Winona	12211	ASM282880v1	GCF_002828805.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9788	9788	2023-05-04	1		
+Plum pox virus		isolate: Volk143, strain: C	12211	ASM282882v1	GCF_002828825.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9795	9795	2023-05-04	1		
+Pokeweed mosaic virus		isolate: MS-FR03	1220025	ASM282884v1	GCF_002828845.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9516	9516	2023-05-04	1		
+Potato virus Y strain NTN		isolate: Tu 660, strain: NTN	122280	ASM282888v1	GCF_002828885.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9700	9700	2023-05-04	1		
+Ranunculus leaf distortion virus		isolate: RN122	341110	ASM282890v1	GCF_002828905.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1540	1540	2019-06-28	1		
+Ranunculus mild mosaic virus		isolate: RN129	341111	ASM282892v1	GCF_002828925.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1548	1548	2019-06-28	1		
+Ranunculus mosaic virus		isolate: RN136	341112	ASM282894v1	GCF_002828945.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1591	1591	2019-06-28	1		
+Rhopalanthe virus Y			104392	ASM282896v1	GCF_002828965.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1622	1622	2019-06-28	1		
+Sarcochilus virus Y			104393	ASM282898v1	GCF_002828985.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1685	1685	2019-06-28	1		
+Spiranthes mosaic virus 3			290031	ASM282900v1	GCF_002829005.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1560	1560	2019-06-28	1		
+Sunflower mosaic virus			185017	ASM282902v1	GCF_002829025.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	2646	2646	2019-06-28	1		
+Sweet potato mild speckling virus			48982	ASM282904v1	GCF_002829045.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1103	1103	2018-08-24	1		
+Tradescantia mild mosaic virus		isolate: IFA195	307997	ASM282906v1	GCF_002829065.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1514	1514	2019-06-28	1		
+Tuberose mild mosaic virus			101281	ASM282908v1	GCF_002829085.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1934	1934	2019-06-28	1		
+Tulip breaking virus		isolate: Texas Flame	12229	ASM282910v1	GCF_002829105.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	3414	3414	2019-06-28	1		
+Twisted-stalk chlorotic streak virus		isolate: Denali 2001	329048	ASM282912v1	GCF_002829125.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1625	1625	2019-06-28	1		
+Vallota mosaic virus			430059	ASM282914v1	GCF_002829145.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1612	1612	2019-06-28	1		
+Watermelon leaf mottle virus			70134	ASM282916v1	GCF_002829165.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	2316	2316	2019-06-28	1		
+Zea mosaic virus			115232	ASM282918v1	GCF_002829185.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1294	1294	2023-05-04	1		
+Zucchini shoestring virus		isolate: RSA Patty pan	1679239	ASM282920v1	GCF_002829205.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10308	10308	2019-06-28	2		
+Zucchini yellow fleck virus		isolate: It	390849	ASM282922v1	GCF_002829225.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1711	1711	2019-06-28	1		
+Saffron latent virus		isolate: Ir-Kh1	2070152	ASM292245v1	GCF_002922455.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9693	9693	2018-02-06	2		
+Hyacinth mosaic virus		isolate: Nannup BC28	421013	ASM293717v1	GCF_002937175.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9500	9500	2018-02-22	1		
+Potyvirus amaranthi		isolate: I	241651	ASM298751v1	GCF_002987515.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1777	1777	2019-06-28	1		
+Butterfly flower mosaic virus		isolate: Hangzhou	456390	ASM298752v1	GCF_002987525.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1603	1603	2019-06-28	1		
+Henbane mosaic virus		isolate: PHYS/H	369762	ASM298754v1	GCF_002987545.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1646	1646	2019-06-28	1		
+Malva vein clearing virus		isolate: DS-Ba-01	565624	ASM298755v1	GCF_002987555.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1832	1832	2019-06-28	1		
+Plum pox virus		isolate: PS, strain: M	12211	ASM298756v1	GCF_002987565.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9786	9786	2023-05-04	10		
+Plum pox virus		strain: D	12211	ASM298757v1	GCF_002987575.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9787	9787	2023-05-04	1		
+Plum pox virus strain El Amar		strain: El Amar	31738	ASM298760v1	GCF_002987605.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9791	9791	2023-05-04	1		
+Potato virus A		isolate: TamMV	12215	ASM298761v1	GCF_002987615.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9605	9605	2023-05-04	1		
+Potato virus Y		isolate: 605, strain: N	12216	ASM298762v1	GCF_002987625.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9701	9701	2023-05-04	11		
+Potato virus Y strain C		isolate: Adgen, strain: C	12217	ASM298763v1	GCF_002987635.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9703	9703	2023-05-04	1		
+Potato virus Y strain Wilga 156		isolate: 156, strain: Wilga 156	317719	ASM298765v1	GCF_002987655.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9699	9699	2023-05-04	1		
+Soybean mosaic virus		strain: P	12222	ASM298766v1	GCF_002987665.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9735	9735	2023-05-04	1		
+Tuberose mild mottle virus		isolate: Hangzhou	244050	ASM298768v1	GCF_002987685.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	4607	4607	2019-06-28	1		
+Tulip mosaic virus			35284	ASM298769v1	GCF_002987695.1	RefSeq	Annotation submitted by NCBI RefSeq	Chromosome	1479	1479	2019-06-28	1		
+Daphne virus Y		isolate: SK	282712	ASM302931v1	GCF_003029315.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9448	9448	2018-08-24	1		
+Lily yellow mosaic virus		isolate: lily-bua	2136283	ASM413146v1	GCF_004131465.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9811	9811	2019-02-12	1		
+Pleione flower breaking virus		isolate: CZ-Wharf1	1403565	ASM413406v1	GCF_004134065.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9952	9952	2019-02-12	1		
+Paris mosaic necrosis virus		isolate: PMNV-cn	2058396	ASM478851v1	GCF_004788515.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9660	9660	2019-06-28	1		
+Mediterranean ruda virus		isolate: ParP17	2058620	ASM478867v1	GCF_004788675.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9560	9560	2019-06-28	1		
+African eggplant mosaic virus		isolate: 2013-281	3240745	ASM478869v1	GCF_004788695.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9646	9646	2019-06-28	1		
+Gomphocarpus mosaic virus			1972994	ASM1308745v1	GCF_013087455.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9998	9998	2021-06-01	2		
+East Asian Passiflora distortion virus		isolate: PY-AK	2734556	ASM1308780v1	GCF_013087805.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9974	9974	2021-06-01	1		
+Mashua virus Y		isolate: Cam	2293720	ASM1308812v1	GCF_013088125.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9769	9769	2021-06-01	1		
+Platycodon mild mottle virus		isolate: Okcheon	2320870	ASM1308819v1	GCF_013088195.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9556	9556	2021-06-01	2		
+Dioscorea mosaic virus		isolate: DMV-FL	2491019	APpotyvirus	GCF_013088245.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9550	9550	2021-06-01	1		
+Dendrobium chlorotic mosaic virus		isolate: 98-De-31	2562807	ASM1308842v1	GCF_013088425.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10041	10041	2021-06-01	1		
+Passionfruit Vietnam virus		isolate: DakNong	2490442	ASM1858371v1	GCF_018583715.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10071	10071	2023-05-04	1		
+Ugandan passiflora virus		isolate: KH7-1	693419	ASM1858479v1	GCF_018584795.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9670	9670	2023-05-04	1		
+Costus stripe mosaic virus		isolate: BR1	2591696	ASM1858491v1	GCF_018584915.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9446	9446	2021-06-01	2		
+Noni mosaic virus		isolate: NoMV-YJh	2608606	ASM1858761v1	GCF_018587615.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9645	9645	2021-06-01	1		
+Paris virus 1		isolate: KM	2730579	ASM1858951v1	GCF_018589515.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10066	10066	2021-06-01	1		
+Begonia flower breaking virus		isolate: YN-Tiger	588752	ASM1858965v1	GCF_018589655.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9540	9540	2021-06-01	1		
+Pleioblastus mosaic virus		strain: PleMV-J1	2760003	ASM2312052v1	GCF_023120525.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9634	9634	2023-05-04	1		
+Ashitaba mosaic virus		isolate: AshMV-AA	2810133	ASM2314751v1	GCF_023147515.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9651	9651	2023-05-04	1		
+Mirabilis crinkle mosaic virus		isolate: MJ	2775266	ASM2314820v1	GCF_023148205.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9666	9666	2023-05-04	1		
+Achyranthes virus A		isolate: SK	2753665	ASM2314880v1	GCF_023148805.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9491	9491	2023-05-04	1		
+Pennisetum alopecuroides mosaic virus			3071225	ASM2314890v1	GCF_023148905.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9734	9734	2023-05-04	1		
+Ornithogalum mosaic virus		isolate: Taean	12204	ASM2988354v1	GCF_029883545.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9475	9475	2023-05-04	1		
+Anemone mosaic virus		isolate: NL	459305	ASM2988385v1	GCF_029883855.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9698	9698	2023-05-04	1		
+Thladiantha dubia mosaic virus		isolate: Harbin-NEFU	2170423	ASM2988392v1	GCF_029883925.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	10142	10142	2023-05-04	1		
+Amomum potyvirus A		isolate: Won_8200	2835563	ASM2988525v1	GCF_029885255.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	8200	8200	2023-05-04	1		
+Clivia yellow stripe virus		isolate: 19-3026	2838134	ASM2988560v1	GCF_029885605.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9800	9800	2023-05-04	1		
+Marigold mosaic virus		isolate: BJ	2820912	ASM2988594v1	GCF_029885945.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9841	9841	2023-05-04	1		
+Scorzonera virus A		isolate: SK	2871166	ASM2988614v1	GCF_029886145.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	9867	9867	2023-05-04	1		
