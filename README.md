@@ -29,7 +29,7 @@ O script realiza as seguintes etapas:
 
 ```
 .
-├── data_summary.tsv         # Exemplo de arquivo de entrada (Atenção: Substitua pelo seu arquivo!)
+├── data_summary.tsv         # Exemplo de arquivo de entrada (Atenção: Substitua pelo seu arquivo! Geralmente o NCBI nomeira o arquivo como `data_summary.tsv` por padrão.)
 ├── process_genomes.py       # Script principal
 ├── README.md                # Este arquivo
 └── Outputs                  # Diretório para os arquivos gerados
@@ -53,7 +53,7 @@ pip install pandas
 ## Como Usar
 
 1. **Prepare o Arquivo de Entrada**:
-   - Substitua o caminho do arquivo `file_name` no script para o caminho do seu arquivo `.tsv`.
+   - Substitua o caminho do arquivo `file_name` no script para o caminho do seu arquivo `.tsv`. Geralmente o NCBI nomeira o arquivo como `data_summary.tsv` por padrão
 
 2. **Execute o Script**:
    - Salve o script como `process_genomes.py`.
