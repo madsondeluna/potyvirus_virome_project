@@ -7,7 +7,7 @@ Este repositório contém um script em Python para processar tabelas de genomas 
 O script realiza as seguintes etapas:
 
 1. **Carregar Tabela Original**:
-   - Carrega a tabela de genomas a partir de um arquivo `.tsv`.
+   - Carrega a tabela de genomas a partir de um arquivo `.tsv` obtido no NCBI ao baixar os genomas de escolha no formato `zip`.
    - Salva a tabela original em formato `.csv` para referência.
 
 2. **Filtragem de Genomas Completos**:
@@ -16,14 +16,14 @@ O script realiza as seguintes etapas:
 
 3. **Remoção de Redundâncias**:
    - Identifica espécies redundantes na coluna `Organism Scientific Name`.
-   - Mantém apenas o registro com o maior valor na coluna `Size` para cada espécie.
+   - Mantém apenas o registro com o maior valor na coluna `Size` (tamanho do genoma) para cada espécie.
    - Salva a tabela final (sem redundâncias) em formato `.csv`.
 
 4. **Relatório Detalhado**:
    - Gera um arquivo de texto (`detailed_filtering.txt`) com informações sobre as etapas de processamento:
      - Número de registros em cada etapa.
      - Quantidade de registros removidos em cada etapa.
-     - Média dos valores da coluna `Size` na tabela final (não redundante).
+     - Média dos valores da coluna `Size` (tamanho do genoma) na tabela final (não redundante).
 
 ## Estrutura do Repositório
 
@@ -73,10 +73,10 @@ pip install pandas
 
 ### Relatório (`detailed_filtering.txt`)
 ```
-Etapa 1: Arquivo original carregado com 225 registros.
-Etapa 2: Após filtrar apenas 'Complete Genome', restaram 174 registros. Foram removidos 51 registros.
-Etapa 3: Após remover redundâncias, restaram 158 registros. Foram removidos 16 registros.
-Média do 'Size' na tabela final (não redundante): 1234.56
+Etapa 1: Arquivo original carregado com XX registros.
+Etapa 2: Após filtrar apenas 'Complete Genome', restaram XX registros. Foram removidos XX registros.
+Etapa 3: Após remover redundâncias, restaram XX registros. Foram removidos XX registros.
+Média do 'Size' na tabela final (não redundante): XX.YY
 ```
 
 ### Estrutura da Tabela Final (`tabela_nao_redundante.csv`)
