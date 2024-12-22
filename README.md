@@ -7,7 +7,7 @@ Este repositório contém um script em Python para processar tabelas de genomas 
 O script realiza as seguintes etapas:
 
 1. **Carregar Tabela Original**:
-   - Carrega a tabela de genomas a partir de um arquivo `.tsv` obtido no NCBI ao baixar os genomas de escolha no formato `zip`.
+   - Carrega a tabela de genomas a partir de um arquivo `.tsv` obtido no NCBI ao baixar os genomas de escolha compactados em `zip`.
    - Salva a tabela original em formato `.csv` para referência.
 
 2. **Filtragem de Genomas Completos**:
@@ -29,7 +29,7 @@ O script realiza as seguintes etapas:
 
 ```
 .
-├── data_summary.tsv         # Exemplo de arquivo de entrada (substitua pelo seu arquivo)
+├── data_summary.tsv         # Exemplo de arquivo de entrada (Atenção: Substitua pelo seu arquivo!)
 ├── process_genomes.py       # Script principal
 ├── README.md                # Este arquivo
 └── Outputs                  # Diretório para os arquivos gerados
