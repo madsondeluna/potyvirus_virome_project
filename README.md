@@ -46,6 +46,8 @@ O script `genome_clustering.py` realiza a clusterização dos genomas não redun
    - Cria um gráfico de dispersão, colorido de acordo com os clusters identificados.
    - Salva e exibe o gráfico como resultado.
 
+### 3, Coming next... 
+
 ## Estrutura do Repositório
 
 ```
