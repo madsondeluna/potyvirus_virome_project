@@ -130,3 +130,7 @@ O gráfico de dispersão apresentará os clusters identificados, com cores difer
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Atenção
+
+Projeto em fase de desenvolvimento e testes. O repositório está em constatnte atualizacão.
